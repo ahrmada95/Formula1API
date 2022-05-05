@@ -41,7 +41,7 @@ https://localhost:7090/Formula1Driver
   "name": string,
   "number": int32,
   "team": string,
-  "carId": int32
+  "carId": "string"
 }
 
 GET Formula 1 Driver by ID:
